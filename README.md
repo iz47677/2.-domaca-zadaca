@@ -12,3 +12,6 @@ Na jednoj
 
 # Pitanje 4:
 Na pet
+
+# Pitanje 5:
+Paralelna je trajala 40,366 ms, a obična 0,0055 ms.
