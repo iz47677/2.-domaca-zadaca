@@ -6,3 +6,9 @@ Druga domaća zadaća
 
 # Pitanje 2:
 Na jednoj
+
+# Pitanje 3:
+1,0776982 sekunda
+
+# Pitanje 4:
+Na pet
