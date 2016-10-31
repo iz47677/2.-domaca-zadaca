@@ -1,0 +1,6 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\bin\Debug\Factorial.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\obj\Debug\Factorial.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\Factorial\obj\Debug\Factorial.pdb

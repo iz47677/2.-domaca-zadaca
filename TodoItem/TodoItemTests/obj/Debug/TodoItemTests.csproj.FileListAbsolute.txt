@@ -1,0 +1,9 @@
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\TodoItemTests.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\TodoItemTests.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\TodoItem.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\TodoItem.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\obj\Debug\TodoItemTests.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\obj\Debug\TodoItemTests.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItemTests\obj\Debug\TodoItemTests.pdb

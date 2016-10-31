@@ -1,0 +1,6 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\bin\Debug\ThreadConsole.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\bin\Debug\ThreadConsole.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\obj\Debug\ThreadConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\obj\Debug\ThreadConsole.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\TodoItem\ThreadConsole\obj\Debug\ThreadConsole.pdb

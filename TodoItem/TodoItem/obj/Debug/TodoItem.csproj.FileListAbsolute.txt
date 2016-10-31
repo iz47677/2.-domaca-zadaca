@@ -1,0 +1,5 @@
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItem\bin\Debug\TodoItem.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItem\bin\Debug\TodoItem.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItem\obj\Debug\TodoItem.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItem\obj\Debug\TodoItem.dll
+c:\users\ivo\documents\visual studio 2015\Projects\TodoItem\TodoItem\obj\Debug\TodoItem.pdb

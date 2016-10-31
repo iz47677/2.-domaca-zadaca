@@ -1,0 +1,6 @@
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\bin\Debug\LinqConsole.exe.config
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\bin\Debug\LinqConsole.exe
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\bin\Debug\LinqConsole.pdb
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\obj\Debug\LinqConsole.csprojResolveAssemblyReference.cache
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\obj\Debug\LinqConsole.exe
+c:\Users\Ivo\documents\visual studio 2015\Projects\TodoItem\LinqConsole\obj\Debug\LinqConsole.pdb
